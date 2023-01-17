@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Моя страница</title>
+	</head>
+	<body>
+		<table>
+			<tr>
+				<td>
+					<a href="https://vk.com/ivang2002"><img src=" myPhoto.png"></a></br>
+				</td>
+				<td>
+					<big>
+						<big>
+							</br>ФИО: Горбатов Иван Дмитриевич</br>
+							</br>
+							</br>Возраст: 20 лет</br>
+							</br>
+							</br>Должность: Студент</br>
+							</br>
+							</br>Группа: Пр-32</br>
+							</br>
+							</br>Курс: 3</br>
+							</br>
+						</big>
+					</big>
+					<a href="file:///C:/Users/307-02/Desktop/Web-разработка/Page%202.html">РАСПИСАНИЕ</a></br>
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Это расписание</title>
+	</head>
+	<body>
+		<table border="1">
+		   <caption><b>Расписание занятий на II семестр 2022/23 учебного года</b></caption>
+		   <tr>
+			<th width=400 height=50><big><big><big><b>Пр-32</b></big></big></big></th>
+			<th width=400 height=50><b>Пр-33</b></th>
+		   </tr>
+		   <tr><td>34,5</td><td>3,5</td></tr>
+		   <tr><td>35,5</td><td>4</td></tr>
+		   <tr><td>36</td><td>4,5</td></tr>
+		   <tr><td>36,5</td><td>5</td></tr>
+		   <tr><td>37</td><td>5,5</td></tr>
+		   <tr><td>38</td><td>6</td></tr>
+		   <tr><td>38,5</td><td>6,5</td></tr>
+		   <tr><td>39</td><td>7</td></tr>
+		   <tr><td>40</td><td>7,5</td></tr>
+		   <tr><td>40,5</td><td>8</td></tr>
+		   <tr><td>41</td><td>8,5</td></tr>
+		   <tr><td>42</td><td>9</td></tr>
+		   <tr><td>43</td><td>9,5</td></tr>
+		   <tr><td>43,5</td><td>10</td></tr>
+		   <tr><td>44</td><td>10,5</td></tr>
+		   <tr><td>44,5</td><td>11</td></tr>
+		   <tr><td>45</td><td>11,5</td></tr>
+		   <tr><td>46</td><td>12</td></tr>
+		   <tr><td>46,5</td><td>12,5</td></tr>
+		   <tr><td>47</td><td>13</td></tr>
+		   <tr><td>48</td><td>13,5</td></tr>
+	  </table>
+	</body>
+</html>

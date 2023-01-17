@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Это заголовок</title>
+	</head>
+	<body>
+		<table>
+			<tr>
+				<td>
+					<a href="https://vk.com/ivang2002"><img src=" myPhoto.png"></a></br>
+				</td>
+				<td>
+					ФИО: Горбатов Иван Дмитриевич</br>
+					Возраст: 20 лет</br>
+					Должность: Студент</br>
+					Группа: Пр-32</br>
+					<a href="https://vk.com/ivang2002">Расписание</a></br>
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>
